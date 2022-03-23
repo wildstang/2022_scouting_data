@@ -1,0 +1,1 @@
+{"2019": [], "2020": [], "2022": [{"function": "mean", "key": "auto_high_hub_cargo_made"}, {"function": "mean", "key": "auto_low_hub_cargo_made"}, {"function": "mean", "key": "teleop_high_hub_cargo_made"}, {"function": "mean", "key": "teleop_high_hub_accuracy"}, {"function": "mean", "key": "teleop_low_hub_cargo_made"}, {"function": "mean", "key": "match_teleop_climb_level"}]}
