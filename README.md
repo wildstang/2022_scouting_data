@@ -15,6 +15,9 @@ There shouldn't be any breaking changes between versions, but for reference the 
 | Central Illinois Regional | 1.1.0   |
 | Midwest Regional          | 1.2.2   |
 | Newton Division (Houston) | 1.3.0   |
+| Rock River Offseason      | 0efe1e* |
+
+*partial testing data
 
 ## How do I read this data?
 
