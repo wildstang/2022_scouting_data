@@ -10,12 +10,13 @@ WildRank scouting data collected during our 2022 Rapid React competitions.
 
 There shouldn't be any breaking changes between versions, but for reference the following versions were used.
 
-| Event                     | Version |
-| ------------------------- | ------- |
-| Central Illinois Regional | 1.1.0   |
-| Midwest Regional          | 1.2.2   |
-| Newton Division (Houston) | 1.3.0   |
-| Rock River Offseason      | 0efe1e* |
+| Event                        | Version  |
+| ---------------------------- | -------- |
+| Central Illinois Regional    | 1.1.0    |
+| Midwest Regional             | 1.2.2    |
+| Newton Division (Houston)    | 1.3.0    |
+| Rock River Offseason         | 0efe1ea* |
+| Mukwonago Robotics Offseason | 278bb96* |
 
 *partial testing data
 
@@ -29,4 +30,4 @@ This is raw data from our scouters. The quantitative data has not been modified,
 
 ## Thanks
 
-Thank you to all the scouters who contributed to this data. Our scouters spent countless hours in the stands and collected the vital data to achieve our two blue banners. We successfully scouted 1653 match-teams, that is 99.8% of qualification matches across our 3 events.
+Thank you to all the scouters who contributed to this data. Our scouters spent countless hours in the stands and collected the vital data to achieve our two blue banners. We successfully scouted 1653 match-teams, that is 99.8% of qualification matches across our 3 official events.
