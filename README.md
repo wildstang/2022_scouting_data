@@ -8,15 +8,15 @@ WildRank scouting data collected during our 2022 Rapid React competitions.
 
 ### Application Versions
 
-There shouldn't be any breaking changes between versions, but for reference the following versions were used.
+This repo contains data collected both with WildRank 1 during the official competition season, as well as, development versions of WildRank 2 during offseason competitions. The versions or Git hashes of the app used to collect the data can be found below. The data collect with version 1 should be compatible with any version 1 release of the app.
 
-| Event                        | Version  |
-| ---------------------------- | -------- |
-| Central Illinois Regional    | 1.1.0    |
-| Midwest Regional             | 1.2.2    |
-| Newton Division (Houston)    | 1.3.0    |
-| Rock River Offseason         | 0efe1ea* |
-| Mukwonago Robotics Offseason | 278bb96* |
+| Event                         | Version |
+| ----------------------------- | ------- |
+| Central Illinois Regional     | 1.1.0   |
+| Midwest Regional              | 1.2.2   |
+| Newton Division (Houston)     | 1.3.0   |
+| Rock River Offseason*         | 0efe1ea |
+| Mukwonago Robotics Offseason* | 278bb96 |
 
 *partial testing data
 
@@ -26,7 +26,7 @@ The best way is with WildRank where you can upload a zip archive of the results 
 
 ## Data Integrity
 
-This is raw data from our scouters. The quantitative data has not been modified, qualitative data has been removed. This means there are known (and unknown) errors in the data, particularly at Newton. We chose not to correct our data, first because it would be too time consuming and second to offer us uncleaned data for future testing/learning purposes. If in the future this data is cleaned the cleaned data will be posted alongside the raw data here.
+This is raw data from our scouters. The quantitative data has not been modified, but qualitative data has been removed. This means there are known (and unknown) errors in the data, particularly at Newton. We chose not to correct our data, first because it would be too time consuming and second to offer us uncleaned data for future testing/learning purposes. If in the future this data is cleaned the cleaned data will be posted alongside the raw data here.
 
 ## Thanks
 
